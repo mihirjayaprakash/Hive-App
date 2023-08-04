@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">plof</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="led_on">LED ON</string>
+    <string name="led_off">LED OFF</string>
+    <string name="button">Button</string>
+    <string name="buzzer_on">BUZZER ON</string>
+    <string name="buzzer_off">BUZZER OFF</string>
+    <string name="lock">Lock</string>
+    <string name="unlock">Unlock</string>
+</resources>

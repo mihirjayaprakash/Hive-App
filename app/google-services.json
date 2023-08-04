@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "169878606252",
+    "firebase_url": "https://led-status-7dea1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "led-status-7dea1",
+    "storage_bucket": "led-status-7dea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169878606252:android:72ab970ca0f882fcafaa09",
+        "android_client_info": {
+          "package_name": "com.example.onoffin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169878606252-7tuv9olvgddtfr84sf5uguej465nc6p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKA6X45EUWWtyik-1ddHfmT7LrtRQG4i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169878606252-7tuv9olvgddtfr84sf5uguej465nc6p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169878606252:android:407951f8ccc31545afaa09",
+        "android_client_info": {
+          "package_name": "com.example.plof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169878606252-7tuv9olvgddtfr84sf5uguej465nc6p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKA6X45EUWWtyik-1ddHfmT7LrtRQG4i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169878606252-7tuv9olvgddtfr84sf5uguej465nc6p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
